@@ -1,4 +1,4 @@
-# flowchart-dialogue-with-DA
+# Turning Flowchart into Dialog
 We provide an advanced version of flowchart dialogue dataset with dialogue act labelling.
 
 **[Turning Flowchart into Dialog: Augmenting Flowchart-grounded Troubleshooting Dialogs via Synthetic Data Generation (ALTA'23)](https://arxiv.org/abs/2305.01323)**
